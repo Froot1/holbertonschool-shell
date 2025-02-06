@@ -1,3 +1,5 @@
+<img width="518" alt="Image" src="https://github.com/user-attachments/assets/7aafb39b-0c5b-4226-a77d-7558a11926d7" />
+
 ## Shell, basics
 
 * [Task 0](./0-current_working_directory) - Write a script that prints the absolute path name of the current working directory

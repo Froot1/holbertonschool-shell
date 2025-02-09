@@ -8,3 +8,4 @@ Each file here is a script that execute a basic command from the shell.
 * [Task 4](./4-global_variables) - Create a script that lists environment variables. **printenv**
 * [Task 5](./5-local_variables) - Create a script that lists all local variables and environment variables, and functions. **set*i*
 * [Task 6](./6-create_local_variable) - Create a script that creates a new local variable. **BEST="School"**
+* [Task 7](./7-create_global_variable) - Create a script that creates a new global variable. **export BEST=School**

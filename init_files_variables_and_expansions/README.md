@@ -6,4 +6,5 @@ Each file here is a script that execute a basic command from the shell.
 * [Task 2](./2-path) - Add /action to the PATH. /action should be the last directory the shell looks into when looking for a program. **export PATH=$PATH:/action**
 * [Task 3](./3-paths) - Create a script that counts the number of directories in the PATH. **echo $PATH | tr ":" "\n" | wc -l**
 * [Task 4](./4-global_variables) - Create a script that lists environment variables. **printenv**
-* [Task 5](./5-local_variables) - Create a script that lists all local variables and environment variables, and functions. **set**
+* [Task 5](./5-local_variables) - Create a script that lists all local variables and environment variables, and functions. **set*i*
+* [Task 6](./6-create_local_variable) - Create a script that creates a new local variable. **BEST="School"**

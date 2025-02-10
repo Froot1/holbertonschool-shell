@@ -1,5 +1,5 @@
 <p align="center">
-<img width="195" align="center" altlt="Image" src="https://github.com/user-attachments/assets/4e8a9645-a38b-4a85-840c-b9ad99992398" />
+<img width="520" align="center" altlt="Image" src="https://github.com/user-attachments/assets/4e8a9645-a38b-4a85-840c-b9ad99992398" />
 </p>
 
 # Shell, init files, variables and expansions

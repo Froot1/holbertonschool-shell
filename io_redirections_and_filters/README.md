@@ -1,3 +1,7 @@
+<p align="center">
+<img width="520" align="center" altlt="Image" src="https://github.com/user-attachments/assets/e4685b2b-eb52-4a3c-a638-52ef1da8f96e" />
+</p>
+
 # Shell, I/O Redirections and filters
 
 * [Task 0](./0-hello_world): Write a script that prints “Hello, World”, followed by a new line to the standard output. **echo Hello, World**

@@ -1,3 +1,7 @@
+<p align="center">
+<img width="195" align="center" altlt="Image" src="https://github.com/user-attachments/assets/4e8a9645-a38b-4a85-840c-b9ad99992398" />
+</p>
+
 # Shell, init files, variables and expansions
 Each file here is a script that execute a basic command from the shell. 
 

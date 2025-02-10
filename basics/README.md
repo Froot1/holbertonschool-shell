@@ -1,4 +1,6 @@
+<p align="center">
 <img width="518" alt="Image" src="https://github.com/user-attachments/assets/7aafb39b-0c5b-4226-a77d-7558a11926d7" />
+</p>
 
 ## Shell, basics
 

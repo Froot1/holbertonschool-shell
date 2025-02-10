@@ -1,4 +1,4 @@
-<img width="195" alt="Image" src="https://github.com/user-attachments/assets/dbc938c7-8a1b-485c-932a-bd1f644e943d" />
+<img width="195" align="center" altlt="Image" src="https://github.com/user-attachments/assets/dbc938c7-8a1b-485c-932a-bd1f644e943d" />
 
 # Holbertonschool Shell
 This repository is was created with education purpose. The content of the directory is based on shell command and a brief explanation. 
